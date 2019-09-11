@@ -36,7 +36,7 @@ namespace importacao.Controllers
                     return BadRequest();
                 }
             }
-            catch (Exception ex)
+            catch (Exception)
             {
                 return StatusCode(500, "Ocorreu um erro.");
             }
