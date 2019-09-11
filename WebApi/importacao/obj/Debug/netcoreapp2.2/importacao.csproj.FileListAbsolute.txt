@@ -1,0 +1,14 @@
+C:\Users\leonardo.queres\source\repos\importacao\importacao\bin\Debug\netcoreapp2.2\importacao.deps.json
+C:\Users\leonardo.queres\source\repos\importacao\importacao\bin\Debug\netcoreapp2.2\importacao.runtimeconfig.json
+C:\Users\leonardo.queres\source\repos\importacao\importacao\bin\Debug\netcoreapp2.2\importacao.runtimeconfig.dev.json
+C:\Users\leonardo.queres\source\repos\importacao\importacao\bin\Debug\netcoreapp2.2\importacao.dll
+C:\Users\leonardo.queres\source\repos\importacao\importacao\bin\Debug\netcoreapp2.2\importacao.pdb
+C:\Users\leonardo.queres\source\repos\importacao\importacao\obj\Debug\netcoreapp2.2\importacao.csprojAssemblyReference.cache
+C:\Users\leonardo.queres\source\repos\importacao\importacao\obj\Debug\netcoreapp2.2\importacao.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.queres\source\repos\importacao\importacao\obj\Debug\netcoreapp2.2\importacao.RazorAssemblyInfo.cache
+C:\Users\leonardo.queres\source\repos\importacao\importacao\obj\Debug\netcoreapp2.2\importacao.RazorAssemblyInfo.cs
+C:\Users\leonardo.queres\source\repos\importacao\importacao\obj\Debug\netcoreapp2.2\importacao.AssemblyInfoInputs.cache
+C:\Users\leonardo.queres\source\repos\importacao\importacao\obj\Debug\netcoreapp2.2\importacao.AssemblyInfo.cs
+C:\Users\leonardo.queres\source\repos\importacao\importacao\obj\Debug\netcoreapp2.2\importacao.RazorTargetAssemblyInfo.cache
+C:\Users\leonardo.queres\source\repos\importacao\importacao\obj\Debug\netcoreapp2.2\importacao.dll
+C:\Users\leonardo.queres\source\repos\importacao\importacao\obj\Debug\netcoreapp2.2\importacao.pdb

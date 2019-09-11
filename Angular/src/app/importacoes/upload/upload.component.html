@@ -1,0 +1,15 @@
+<div class="container">
+    <div class="custom-file">
+        <input type="file" #file class="custom-file-input" id="customFile" (change)="uploadFile(file.files)">
+        <label class="custom-file-label" for="customFile" id="customFileLabel">Upload</label>
+    </div>
+    <div class="col-md-4">
+            <span class="upload" *ngIf="progress > 0">
+              {{progress}}%
+            </span>
+            <span class="upload" *ngIf="message">
+              {{message}}
+            </span>
+          </div>
+    
+</div>
